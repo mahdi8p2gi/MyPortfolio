@@ -1,8 +1,20 @@
 <div align="center">
 
+<img src="./src/assets/images/portfolio.png" alt="Portfolio Preview" width="100%" />
+
 # ✨ Mahdi Karimi Portfolio
 
-### A Premium Awwwards-Inspired Portfolio Built with Modern Web Technologies
+### A Premium Awwwards-Inspired Portfolio Built with React, TypeScript & Tailwind CSS
+
+### 🌐 Live Demo
+**https://my-portfolio-ab3y.vercel.app/**
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ab3y.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mahdi8p2gi/portfolio)
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +45,7 @@
 
 A modern, high-performance portfolio website crafted to showcase creative development work through elegant animations, immersive interactions, and pixel-perfect responsive design.
 
-Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Framer Motion**, this project follows modern frontend architecture while prioritizing accessibility, SEO, maintainability, and exceptional user experience.
+Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Framer Motion**, this project delivers a fast, accessible, and cinematic user experience inspired by award-winning websites like **Apple**, **Stripe**, **Linear**, and **Vercel**.
 
 ---
 
@@ -41,38 +53,38 @@ Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Framer Motio
 
 ### 🎨 Premium UI
 
-- Glassmorphism interface
-- Dynamic gradients
-- Soft shadows
-- Micro interactions
-- Smooth animations
+- Glassmorphism Interface
+- Dynamic Gradients
+- Micro Interactions
+- Smooth Motion Animations
+- Beautiful Visual Effects
 
 ### ⚡ Performance
 
-- Optimized bundle
-- Lazy loading
-- Code splitting
-- Core Web Vitals optimized
+- Optimized Bundle
+- Lazy Loading
+- Code Splitting
+- Core Web Vitals Optimized
 
 ### 🌙 Theme
 
-- Dark / Light mode
-- System preference detection
-- Persistent theme storage
+- Dark / Light Mode
+- System Theme Detection
+- Persistent Theme Storage
 
 ### 📱 Responsive
 
 - Mobile First
-- Tablet optimized
-- Desktop optimized
-- 4K ready
+- Tablet Optimized
+- Desktop Optimized
+- 4K Ready
 
 ### ♿ Accessibility
 
 - Semantic HTML
-- Keyboard navigation
-- ARIA labels
-- WCAG friendly
+- Keyboard Navigation
+- ARIA Labels
+- WCAG Friendly
 
 ### 🔍 SEO
 
@@ -89,7 +101,7 @@ Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Framer Motio
 |----------|--------------|
 | Framework | React 19 |
 | Language | TypeScript 5.9 |
-| Styling | Tailwind CSS 4 |
+| Styling | Tailwind CSS v4 |
 | Animation | Framer Motion |
 | Build Tool | Vite 7 |
 | Linting | ESLint |
@@ -179,14 +191,6 @@ src
 
 ---
 
-# 📸 Preview
-
-<p align="center">
-<img src="./src/assets/images/portfolio.png" width="100%" alt="Portfolio Preview"/>
-</p>
-
----
-
 # 🤝 Contributing
 
 Contributions are always welcome.
@@ -212,6 +216,8 @@ Creative Frontend Developer
 📧 **themahdikga@gmail.com**
 
 🐙 **https://github.com/mahdi8p2gi**
+
+🌐 **https://my-portfolio-ab3y.vercel.app/**
 
 ---
 
