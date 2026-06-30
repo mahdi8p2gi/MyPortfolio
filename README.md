@@ -229,5 +229,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
   <p>Built with ❤️ using React, TypeScript & Tailwind CSS</p>
-  <p>© 2024 Mahdi Karimi. All rights reserved.</p>
+  <p>© 2026 Mahdi Karimi. All rights reserved.</p>
 </div>
