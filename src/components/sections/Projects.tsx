@@ -54,9 +54,9 @@ function ProjectCard({ project, index }: { project: (typeof PROJECTS)[number]; i
             loading="lazy"
           />
           {/* Gradient overlay */}
-          <div className="absolute inset-0 bg-gradient-to-t from-bg-elevated via-bg-elevated/30 to-transparent opacity-70 group-hover:opacity-50 transition-opacity duration-400" />
+          <div className="absolute inset-0 bg-linear-to-t from-bg-elevated via-bg-elevated/30 to-transparent opacity-70 group-hover:opacity-50 transition-opacity duration-400" />
           {/* Color accent line */}
-          <div className="absolute top-0 left-0 right-0 h-[2px] opacity-0 group-hover:opacity-100 transition-opacity duration-300" style={{ background: project.color }} />
+          <div className="absolute top-0 left-0 right-0 h-0.5 opacity-0 group-hover:opacity-100 transition-opacity duration-300" style={{ background: project.color }} />
           {/* Hover action buttons */}
           <div className="absolute top-4 right-4 flex items-center gap-2 opacity-0 translate-y-2 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300">
             <a

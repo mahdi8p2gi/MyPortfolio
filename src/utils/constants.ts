@@ -34,11 +34,11 @@ export const PROJECTS = [
     title: "Orbit Analytics",
     description:
       "Enterprise-grade real-time analytics dashboard processing 10M+ events daily. Features interactive data visualization, customizable widgets, and AI-powered anomaly detection with sub-second query performance.",
-    image: "/images/project-1.jpg",
+    image: "/src/assets/images/cafe-shot-1.png",
     tags: ["React", "D3.js", "Node.js", "ClickHouse"],
     category: "fullstack",
-    liveUrl: "https://orbit-analytics.demo",
-    githubUrl: "https://github.com/mahdi8p2gi",
+    liveUrl: "https://cafe-noir-shop.vercel.app/",
+    githubUrl: "https://github.com/mahdi8p2gi/cafe-noir-shop",
     color: "#6366f1",
   },
   {
