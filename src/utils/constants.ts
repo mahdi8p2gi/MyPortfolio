@@ -31,7 +31,7 @@ export const SKILLS = [
 export const PROJECTS = [
   {
     id: 1,
-    title: "Orbit Analytics",
+    title: "CAfe noir",
     description:
       "Enterprise-grade real-time analytics dashboard processing 10M+ events daily. Features interactive data visualization, customizable widgets, and AI-powered anomaly detection with sub-second query performance.",
     image: "/src/assets/images/cafe-shot-1.png",
