@@ -9,8 +9,8 @@ export const NAV_LINKS = [
 export const SOCIAL_LINKS = [
   { label: "GitHub", href: "https://github.com/mahdi8p2gi", icon: "github" },
   { label: "LinkedIn", href: "https://linkedin.com", icon: "linkedin" },
-  { label: "Twitter", href: "https://twitter.com", icon: "twitter" },
-  { label: "Dribbble", href: "https://dribbble.com", icon: "dribbble" },
+  { label: "Telegram", href: "https://twitter.com", icon: "telegram" },
+  { label: "Instagram", href: "https://dribbble.com", icon: "instagram" },
 ] as const;
 
 export const SKILLS = [
@@ -31,11 +31,11 @@ export const SKILLS = [
 export const PROJECTS = [
   {
     id: 1,
-    title: "CAfe noir",
+    title: "Cafe noir",
     description:
       "Enterprise-grade real-time analytics dashboard processing 10M+ events daily. Features interactive data visualization, customizable widgets, and AI-powered anomaly detection with sub-second query performance.",
     image: "/src/assets/images/cafe-shot-1.png",
-    tags: ["React", "D3.js", "Node.js", "ClickHouse"],
+    tags: ["Next.js", "D3.js", "Node.js", "Vercel"],
     category: "fullstack",
     liveUrl: "https://cafe-noir-shop.vercel.app/",
     githubUrl: "https://github.com/mahdi8p2gi/cafe-noir-shop",
